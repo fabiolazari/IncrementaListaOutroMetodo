@@ -1,0 +1,13 @@
+C:\Users\Lazari\source\repos\IncrementaListaOutroMetodo\IncrementaListaOutroMetodo\bin\Debug\netcoreapp3.1\IncrementaListaOutroMetodo.exe
+C:\Users\Lazari\source\repos\IncrementaListaOutroMetodo\IncrementaListaOutroMetodo\bin\Debug\netcoreapp3.1\IncrementaListaOutroMetodo.deps.json
+C:\Users\Lazari\source\repos\IncrementaListaOutroMetodo\IncrementaListaOutroMetodo\bin\Debug\netcoreapp3.1\IncrementaListaOutroMetodo.runtimeconfig.json
+C:\Users\Lazari\source\repos\IncrementaListaOutroMetodo\IncrementaListaOutroMetodo\bin\Debug\netcoreapp3.1\IncrementaListaOutroMetodo.runtimeconfig.dev.json
+C:\Users\Lazari\source\repos\IncrementaListaOutroMetodo\IncrementaListaOutroMetodo\bin\Debug\netcoreapp3.1\IncrementaListaOutroMetodo.dll
+C:\Users\Lazari\source\repos\IncrementaListaOutroMetodo\IncrementaListaOutroMetodo\bin\Debug\netcoreapp3.1\IncrementaListaOutroMetodo.pdb
+C:\Users\Lazari\source\repos\IncrementaListaOutroMetodo\IncrementaListaOutroMetodo\obj\Debug\netcoreapp3.1\IncrementaListaOutroMetodo.csprojAssemblyReference.cache
+C:\Users\Lazari\source\repos\IncrementaListaOutroMetodo\IncrementaListaOutroMetodo\obj\Debug\netcoreapp3.1\IncrementaListaOutroMetodo.AssemblyInfoInputs.cache
+C:\Users\Lazari\source\repos\IncrementaListaOutroMetodo\IncrementaListaOutroMetodo\obj\Debug\netcoreapp3.1\IncrementaListaOutroMetodo.AssemblyInfo.cs
+C:\Users\Lazari\source\repos\IncrementaListaOutroMetodo\IncrementaListaOutroMetodo\obj\Debug\netcoreapp3.1\IncrementaListaOutroMetodo.csproj.CoreCompileInputs.cache
+C:\Users\Lazari\source\repos\IncrementaListaOutroMetodo\IncrementaListaOutroMetodo\obj\Debug\netcoreapp3.1\IncrementaListaOutroMetodo.dll
+C:\Users\Lazari\source\repos\IncrementaListaOutroMetodo\IncrementaListaOutroMetodo\obj\Debug\netcoreapp3.1\IncrementaListaOutroMetodo.pdb
+C:\Users\Lazari\source\repos\IncrementaListaOutroMetodo\IncrementaListaOutroMetodo\obj\Debug\netcoreapp3.1\IncrementaListaOutroMetodo.genruntimeconfig.cache
