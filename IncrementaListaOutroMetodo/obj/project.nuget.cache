@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NCSr5L64h3aRQGLo+P9Nl5+8cq7BWZd2397qxGsO4fO8wc984r8rAnWemg1d5X/yTzPdUDkrnhQSDA+HKups2Q==",
+  "dgSpecHash": "tpAea0ZMcU05O3bD/uxLzoPz6tC07GxhSxQOnUa1WBWbJjueq1abaBd7oq1743zOStwimKNCrTrsfJj5NJWGtw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lazari\\source\\repos\\IncrementaListaOutroMetodo\\IncrementaListaOutroMetodo\\IncrementaListaOutroMetodo.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Meus\\repository\\github\\IncrementaListaOutroMetodo\\IncrementaListaOutroMetodo\\IncrementaListaOutroMetodo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lazari\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Lazari\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Lazari\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Lazari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
